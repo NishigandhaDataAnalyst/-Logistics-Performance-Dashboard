@@ -1,4 +1,4 @@
-<img width="1500" height="709" alt="Material in Transit" src="https://github.com/user-attachments/assets/bdf4eb80-452f-481d-8e3b-2ca92dc9c638" /># 🚚 Logistics Performance Dashboard (Power BI)
+🚚 Logistics Performance Dashboard (Power BI)
 
 ## Overview
 An end-to-end Business Intelligence solution built in Power BI to analyze **transportation operations, trip status, transporter efficiency, and cost distribution**.  
