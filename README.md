@@ -13,12 +13,11 @@ The dashboard provides actionable insights into **82K+ trips, 40 transporters, a
 ## Visuals
 Include screenshots of your dashboard here (e.g., `Trip Status`, `Transporter Analysis`, `Cost Analysis`).  
 Example:
-<img width="1500" height="963" alt="Trip Analysis" src="https://github.com/user-attachments/assets/9b834279-0216-4129-81bf-724d39284308" />
-<img width="1500" height="805" alt="Trip Status" src="https://github.com/user-attachments/assets/dd5193ae-1a6d-4224-9035-ed700e6d3825" />
-<img width="1500" height="823" alt="Transporter Status" src="https://github.com/user-attachments/assets/2cd8c663-6e98-4cf8-ace7-53320e40597a" />
-<img width="1500" height="758" alt="Cost" src="https://github.com/user-attachments/assets/628feba2-5ef8-421a-9e05-8ebff925df8a" />
-<img width="1500" height="709" alt="Material in Transit" src="https://github.com/user-attachments/assets/2cc9d2d9-ef5e-4723-a69d-fcf54a74cfac" />
-
+<img width="1500" height="963" alt="Trip Analysis" src="https://github.com/user-attachments/assets/05807f88-1d46-4672-914e-49a6b9fc596f" />
+<img width="1500" height="805" alt="Trip Status" src="https://github.com/user-attachments/assets/1f261d1c-425a-4eca-842b-13fb9854d2e6" />
+<img width="1500" height="823" alt="Transporter Status" src="https://github.com/user-attachments/assets/ae456444-ad56-4c6e-9b02-e0c2cb02b90c" />
+<img width="1500" height="758" alt="Cost" src="https://github.com/user-attachments/assets/645eb4ba-dee1-4bb3-bb9c-29881b77dd9e" />
+<img width="1500" height="709" alt="Material in Transit" src="https://github.com/user-attachments/assets/db472386-63a0-488f-b077-7961643df543" />
 
 
 ## How to Use
